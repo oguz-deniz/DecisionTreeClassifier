@@ -17,3 +17,5 @@ This project showcases my implementation of a decision tree classifier from scra
 * **Robust Training:** The model achieves a high training accuracy (typically around 1.0) since it learns from the training dataset it has seen before. However, it maintains good generalization to unseen test data (around 0.96 accuracy).
 
 * **ROC Curve Analysis:** Examining the ROC curve reveals that the model's performance closely approaches the ideal. The model exhibits a high area under the curve (AUC) of approximately 0.97, indicating its strong discriminative power based on true positive and false positive rates.
+
+     <img src="https://github.com/oguz-deniz/DecisionTreeClassifier/assets/98212476/5ced0f43-a826-4a73-a67f-5931d59bf020" alt="Ekran Görüntüsü (204)" width="300">
