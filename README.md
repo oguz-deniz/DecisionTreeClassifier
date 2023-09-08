@@ -1,4 +1,4 @@
-# DecisionTreeClassifier
+# Decision Tree Classifier
 This project showcases my implementation of a decision tree classifier from scratch, providing a fundamental and clear example of how this machine learning algorithm works.
 
 * **Pure Python Implementation:** This decision tree classifier is entirely implemented in Python, ensuring comprehensibility and adaptability.
