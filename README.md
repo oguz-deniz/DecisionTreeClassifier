@@ -11,7 +11,7 @@ This project showcases my implementation of a decision tree classifier from scra
 
 * **Confusion Matrix Insights:** In the confusion matrix, we observe that out of 30 instances, 29 are correctly classified on the diagonal, indicating only one misclassification.
 
- <img src="https://github.com/oguz-deniz/DecisionTreeClassifier/assets/98212476/658b24d8-e6f1-4b14-b50b-ea26bf5fb082" alt="Ekran Görüntüsü (205)" width="300">
+     <img src="https://github.com/oguz-deniz/DecisionTreeClassifier/assets/98212476/658b24d8-e6f1-4b14-b50b-ea26bf5fb082" alt="Ekran Görüntüsü (205)" width="300">
 
 
 * **Robust Training:** The model achieves a high training accuracy (typically around 1.0) since it learns from the training dataset it has seen before. However, it maintains good generalization to unseen test data (around 0.96 accuracy).
