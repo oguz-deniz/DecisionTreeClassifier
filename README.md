@@ -1,7 +1,7 @@
 # DecisionTreeClassifier
 This project showcases my implementation of a decision tree classifier from scratch, providing a fundamental and clear example of how this machine learning algorithm works.
 
-**Pure Python Implementation:** This decision tree classifier is entirely implemented in Python, ensuring comprehensibility and adaptability.
+* **Pure Python Implementation:** This decision tree classifier is entirely implemented in Python, ensuring comprehensibility and adaptability.
 
 **Scikit-Learn Style API:** I've designed the code to follow the intuitive API style of Scikit-Learn, making it user-friendly and compatible with other machine learning tools.
 
